@@ -1,0 +1,53 @@
+HTML - CSS:
+===========
+CSS stands for cascading style sheets
+CSS can control the layout of multiple webpages at once. It saves lot of work.
+With CSS, we can control color, font, text size, spacing between the element, elements position, background images & colors, different display for different devices/screens
+CASCADING: It means that a style applied to a parent element will also be applied to all its children.
+
+Ways to use CSS in HTML:
+========================
+a. Inline: using style attribute inside HTML element start tag
+b. Internal: using a <style> element in the <head> section
+c. External: using a <link> element to link to an external CSS file
+
+CSS Priority:
+=============
+a. Inline CSS is taking more Priority than the internal CSS (present in head tag)
+b. Internal CSS is taking more Priority than the external CSS (a file named as style.css) 
+c. Priority: Inline > Internal > External
+
+
+HTML Links:
+==========
+a.Links allow users to click and navigate to various web pages of the parent application or extenal websites
+b. HTML links not hyperlinks
+
+Link Apperance:
+================
+a. unvisited link is underlined and blue in color
+b. visited link is underlined and purple
+c. an actived link is underlined and red
+
+Default Behavior:
+====================
+By default the link page will be displayed in current browser window
+To change this Behavior we have use the target:
+a. _self - default. need not specify. open link in the same window where the link is clicked
+b. _blank - Opens the link in a new tab
+c. _parent - Open the document in the parent frame
+d. _top - opens the document in the full body of the window
+
+Absolute and Relative URL:
+==========================
+
+
+HTML Bookmarks:
+===============
+Bookmarks are useful if a webpage is very long
+to create a bookmark, first create bookmark and then add a link to its
+when the link is clicked, the page will scroll down or up to the location with the Bookmarks
+
+
+
+
