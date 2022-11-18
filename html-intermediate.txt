@@ -48,6 +48,14 @@ Bookmarks are useful if a webpage is very long
 to create a bookmark, first create bookmark and then add a link to its
 when the link is clicked, the page will scroll down or up to the location with the Bookmarks
 
+Image Maps:
+==============
+Image maps help us to perform different actions depending on which part of the image user clicks:
+a. based on coordinates
+
+
+HMTL - Picture element
+===========================
 
 
 
