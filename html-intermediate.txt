@@ -59,3 +59,30 @@ HMTL - Picture element
 
 
 
+HTML - ol tag has a property called type=""
+============================================
+type="1" - List will be with numbers
+type="A" - list will be numbered with upper case letters
+type="a" - list will be numbered with lower case letters
+type="I" - list will be numbered with upper roman letters
+type="i" - list will be numbered with lower roman letters
+
+
+Order List - Start Atrribute
+=============================
+list will start from specified number start="10"
+
+
+Block and Inline
+==================
+Block - Will display in a new line
+Also for block level elements browsers add some default margins (space) before and after the element
+Block Level Element will take entire width of the screen available
+
+Inline - Will display in the same line.
+Inline element takes up only as much width as necessary
+
+
+Classess & Id: .class, #id
+==============================
+Class name can be used by multiple HTML elements. But id name must only be used by one HTML element withint page
