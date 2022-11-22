@@ -86,3 +86,10 @@ Inline element takes up only as much width as necessary
 Classess & Id: .class, #id
 ==============================
 Class name can be used by multiple HTML elements. But id name must only be used by one HTML element withint page
+
+File Paths:
+===========
+<img src="picture.jpg">   file located in same folder as current page
+    <img src="images/picture.jpg"> file located in images folder in the current folder
+    <img src="/images/picture.jpg"> the file is located in the images folder at the root of the current web
+    <img src="../picture.jpg"> file is located one level up from the current folder
