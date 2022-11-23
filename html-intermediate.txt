@@ -93,3 +93,21 @@ File Paths:
     <img src="images/picture.jpg"> file located in images folder in the current folder
     <img src="/images/picture.jpg"> the file is located in the images folder at the root of the current web
     <img src="../picture.jpg"> file is located one level up from the current folder
+
+
+HTML - head
+===========
+title, style, meta, link, script, 
+
+meta:
+=====
+  <meta charset="UTF-8"> => Defines the character set
+    <meta name="keywords" content="HTML, CSS, JavaScript"> => for search engines
+    <meta name="description" content="learning HTML - head items"> => desc webpage
+    <meta name="author" content="Srinivas M"> => author of webpage
+    <meta http-equiv="refresh" content="30"> => webpage refresh
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> to make sure that a given website displayed properly on all devices
+    
+    <base href="https://www.spacex.com/" target="_blank" />
+    <a href="launches">Link</a>
+    https://www.standardista.com/html5/http-equiv-the-meta-attribute-explained/
